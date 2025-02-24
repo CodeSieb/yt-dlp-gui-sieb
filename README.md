@@ -1,20 +1,41 @@
-yt-dlp GUI is a desktop application built with PyQt6 that provides a graphical interface for downloading videos and playlists using yt-dlp. Key features include:
+# yt-dlp GUI
 
-  -Download Video: Allows downloading single videos from YouTube.
-  -Download Playlist: Enables downloading entire playlists with ease.
-  -Customizable Output:
-  -Choose a specific output folder for downloaded files.
-  -Customize file name for each download.
-  -File Format Selection: Choose from various formats including mp4, mkv, webm, flv, and avi.
-  -Quality Options: Select from multiple video quality options like 144p, 240p, 360p, 480p, 720p, 1080p, or the best available quality.
-  -Subtitles: Option to download subtitles with the video.
-  -Thumbnail Embedding: Option to embed the video’s thumbnail in the downloaded file.
-  -Download History: Track and view previously downloaded videos and playlists.
-  -Progress Bar: Visual indication of download progress.
-  -Log Output: Real-time log output for each download.
-  -Dark Mode: A sleek, dark mode interface for improved readability and aesthetics.
-  -Designed for simplicity, yt-dlp GUI is ideal for users who prefer a graphical interface over command-line tools while still offering powerful features for downloading content from YouTube.
+**yt-dlp GUI** is a desktop application built with PyQt6 that provides a graphical interface for downloading videos and playlists using `yt-dlp`. This app is designed for simplicity and is perfect for users who prefer a GUI over command-line tools while still offering powerful features for downloading content from YouTube.
 
+## Key Features
 
-Dependencies and how to install:
-  -You need to have a fodler with yt-dlp already in in the same folder put my program and it should work
+- **Download Video**: Easily download single videos from YouTube.
+- **Download Playlist**: Download entire playlists with a few clicks.
+- **Customizable Output**:
+  - Choose the output folder for your downloaded files.
+  - Customize the file name for each download.
+- **File Format Selection**: Choose from various formats including:
+  - mp4
+  - mkv
+  - webm
+  - flv
+  - avi
+- **Quality Options**: Select from multiple video quality options:
+  - 144p
+  - 240p
+  - 360p
+  - 480p
+  - 720p
+  - 1080p
+  - Best available quality
+- **Subtitles**: Download subtitles with the video (if available).
+- **Thumbnail Embedding**: Option to embed the video’s thumbnail in the downloaded file.
+- **Download History**: Track and view previously downloaded videos and playlists.
+- **Progress Bar**: Visual indication of download progress.
+- **Log Output**: Real-time log output for each download.
+- **Dark Mode**: A sleek dark mode interface for improved readability and aesthetics.
+
+## Dependencies
+
+- **yt-dlp**: Ensure that `yt-dlp` is installed and placed in the same folder as this program. You can download it from [yt-dlp GitHub](https://github.com/yt-dlp/yt-dlp).
+  
+## How to Install and Use
+
+1. Download the latest release of **yt-dlp GUI**.
+2. Ensure that the `yt-dlp` executable is in the same folder as the program.
+3. Launch the program and start downloading videos or playlists.
