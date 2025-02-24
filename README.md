@@ -2,6 +2,10 @@
 
 **yt-dlp GUI** is a desktop application built with PyQt6 that provides a graphical interface for downloading videos and playlists using `yt-dlp`. This app is designed for simplicity and is perfect for users who prefer a GUI over command-line tools while still offering powerful features for downloading content from YouTube.
 
+## Why I Made This
+
+I created **yt-dlp GUI** because I wasn't satisfied with how other video downloading programs worked. Many of them had cluttered interfaces, limited features, or complicated settings. I wanted a simple and efficient tool with a clean design that made downloading videos and playlists easy, without needing to use the command line. This application combines the power of `yt-dlp` with a straightforward user experience, allowing users to quickly and easily get their content in various formats and qualities.
+
 ## Key Features
 
 - **Download Video**: Easily download single videos from YouTube.
